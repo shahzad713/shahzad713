@@ -1,37 +1,67 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Shahzad Munir</h1>
-<h3 align="center">A passionate Softwere developer</h3>
-<img align="right" alt="Coding" width="400" src="https://animationexplainers.com/wp-content/uploads/2022/05/Corporate-Training.jpg" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzad713&label=Profile%20views&color=0e75b6&style=flat" alt="shahzad713" /> </p>
+### Hi there 👋
+- 👋 Hi, I’m mxsm(蚂蚁背大象)，Graduated from ***Hangzhou Dianzi University(HDU)***.
+- 👨‍💻 A Software Engineer living in Foshan. Working in Guangzhou. ***Good at JAVA, Rustaceans***
+- 🌱 I’m currently focused on [***Apache RocketMQ***](https://github.com/apache/rocketmq), [***Apache EventMesh***](https://github.com/apache/eventmesh), [***RocketMQ-Rust***](https://github.com/mxsm/rocketmq-rust) and [***DLedger***](https://github.com/openmessaging/dledger).
+- 📚 I’m currently learning English and Rust.
+- 👉 [Here](https://blog.ljbmxsm.com) is my personal website. Here is my [juejin Home page ](https://juejin.cn/user/1151943918492855)
+- 📫 How to reach me: mxsm@apache.org or ljbmxsm@163.com 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzad713" alt="shahzad713" /></a> </p>
+### Contributing projects
 
-<p align="left"> <a href="https://twitter.com/@shahzadmunir713" target="blank"><img src="https://img.shields.io/twitter/follow/@shahzadmunir713?logo=twitter&style=for-the-badge" alt="@shahzadmunir713" /></a> </p>
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mxsm&repo=rocketmq-rust&theme=monokai)](https://github.com/mxsm/rocketmq-rust)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=apache&repo=eventmesh&theme=monokai)](https://github.com/apache/eventmesh)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=apache&repo=rocketmq&theme=monokai)](https://github.com/apache/rocketmq)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mxsm&repo=rain&theme=monokai)](https://github.com/mxsm/rain)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=openmessaging&repo=dledger&theme=monokai)](https://github.com/openmessaging/dledger)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mxsm&repo=mxsm-website&theme=monokai)](https://github.com/mxsm/mxsm-website)
 
-- 🔭 I’m currently working on [Maxed-Store](https://github.com/Maxed-Store/e-store-react)
+### Profile Views
+counting of visitors to this page in this section started from July 30, 2023
 
-- 🌱 I’m currently learning **Go lang and System design**
+<img src="https://count.getloli.com/get/@:mxsm?theme=gelbooru-h" alt=":name" />
 
-- 👯 I’m looking to collaborate on [socialpredict](https://github.com/openpredictionmarkets/socialpredict)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
-- 👨‍💻 All of my projects are available at [https://portifilo-b77n.vercel.app/](https://portifilo-b77n.vercel.app/)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mxsm" width="auto"></img>
 
-- 💬 Ask me about **React**
 
-- 📫 How to reach me **munirshahzad043@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@shahzadmunir713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shahzadmunir713" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shahzad713/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahzad713/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/munirshahzad043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/munirshahzad043" height="30" width="40" /></a>
+## Technologies 💻
+<p align="center">
+<img title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061259295.png" width="48" height="48" />
+<img title="Git" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061326511.png" width="48" height="48" />
+<img title="Gitlab" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061327338.png" width="48" height="48" />
+<img title="Prometheus" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061328494.png" width="48" height="48" />
+<img title="Grafana" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061435121.png" width="48" height="48" />
+<img title="Protobuf" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061446515.png" height="48" />
+<img title="gRPC" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061339229.png" width="48" height="48" />
+<img title="MySQL" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061400526.png" width="60" height="60" />
+<img title="RocketMQ" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061338810.png" width="48" height="48" />
+<img title="Redis" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061417881.png" width="48" height="48" />
+<img title="JetBrains" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061432653.png" width="48" height="48" />
+<img title="Ubuntu" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061639804.png" width="42" height="42" />
+<img title="Ubuntu" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203062151170.png" height="45" />
+<img title="CentOS" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061641671.png" width="42" height="42" />
+<img title="Windows" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061643723.png" width="48" height="48" />
 </p>
+<div>
+  <h3 align="center"> 
+    Visitors Count<br>
+    <img align="center" src="https://profile-counter.glitch.me/mxsm/count.svg" />
+  </h3>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<a href="https://blog.ljbmxsm.com">
+  <img align="left" height=170px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mxsm&show_icons=true&count_private=true&theme=radical" />
+</a>
+<a href="https://blog.ljbmxsm.com">
+  <img align="left" height=170px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mxsm&layout=compact&theme=radical&langs_count=10&hide=html,javascript,css,freemarker" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzad713&show_icons=true&locale=en&layout=compact" alt="shahzad713" /></p>
+[![@mxsm's Holopin board](https://holopin.io/api/user/board?user=mxsm)](https://holopin.io/@mxsm)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzad713&show_icons=true&locale=en" alt="shahzad713" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzad713&" alt="shahzad713" /></p>
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=mxsm(蚂蚁背大象);Wish%20you%20can%20Day%20Day%20Up%20every%20day!)](https://git.io/typing-svg)
+![Metrics](https://metrics.lecoq.io/mxsm?template=classic&config.timezone=Asia%2FShanghai)
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=mxsm&theme=xcode" /> </div>
+**mxsm/mxsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
